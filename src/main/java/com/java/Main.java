@@ -9,7 +9,7 @@ g) Variable entera: indice                             h) Variables double: prec
 i) Variables carácter: car1, car2                      j) Variable tipo byte: valor
 k) Variables lógicas: primero, ultimo                  l) Variable de tipo cadena de caracteres: nombre */
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
         System.out.println("---------------------------");
 
